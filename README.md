@@ -5,7 +5,7 @@ A light overview of Github, what it is and why we use it.
 
 Git is version-tracking software. Coders use Git to track their projects because it allows them to go back through the changes made as they add to their code.
 
-Git is like a save button for your project that allows you to go back through all of your previous saves.
+Git is like a save button for your project that allows you to "undo" your changes and go back through all of your previous saves.
 
 This has two **huge** benefits:
 * When you notice a [bug](https://www.atlasobscura.com/places/grace-hoppers-bug) and can't work out where it came from, you can revert back to previous versions of your code and trace where the bug first began, and which lines of code changed when it did.
