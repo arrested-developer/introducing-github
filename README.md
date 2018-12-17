@@ -145,6 +145,10 @@ Once the settings have saved, you'll see the URL for your published website. Cli
 
 Once you're confident with all the steps above, you can create your personal Github page, which will have an address starting with your username, like arrested-developer.github.io
 
+**What? You mean I'm not done yet?**
+
+Nope! But this walkthrough should help you with the knowledge you need to do this on your own.
+
 The only thing you need to do differently is to start by creating a repo, and **naming the repository the same as your github page _will be named_, i.e. your-username.github.io**
 
 If you've done this, then when you change the settings on your repo to set up Github Pages, it will give it the address of your personal page
