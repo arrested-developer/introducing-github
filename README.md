@@ -130,6 +130,8 @@ You should see a section on Github Pages that looks something like this:
 
 ![](https://i.imgur.com/3hj0uhK.png)
 
+**Note: You don't need to choose a theme - for your personal website we specify that you should not use one**
+
 Once the settings have saved, you'll see the URL for your published website. Click on it and check that your page looks as expected.
 
 ### Well done! You published to Github Pages!
